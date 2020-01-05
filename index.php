@@ -49,7 +49,7 @@
 		<!-- My css -->
 		<link rel="stylesheet" href = "myStyle.css">
 		<link rel="stylesheet" href = "css/timeline.css">
-		<link rel="shortcut icon" type="image/x-icon" href="images/icons/favicon.ico">
+		<link rel="shortcut icon" type="image/x-icon" href="images/icons/java.ico">
 
 		<!-- Modernizr JS -->
 		<script src="js/modernizr-2.6.2.min.js"></script>
@@ -123,7 +123,7 @@
 						<div class="col-md-8 col-md-offset-2 to-animate">
 							<i  class="to-animate icon-laptop fa-3x"></i>
 							<h1 class="to-animate">Bienvenue sur mon Portfolio!</h1>
-							<h2 class="to-animate">il reflète ma passion pour la programmation.
+							<h2 class="to-animate">il reflète ma passion pour l'informatique.
 							</h2>
 						</div>
 					</div>
@@ -146,11 +146,10 @@
 						</p>
 						<p>
 							Je suis également diplomé d'un <B>BTS SIO</B> (Services Informatiques aux Organisations) spécialité SLAM
-							(Solutions Logicielles et Applications Métiers) effectué au sein du lycée Léonard de Vinci à Melun (77).
+							(Solutions Logicielles et Applications Métiers) effectué au sein du lycée Léonard de Vinci à Melun(77).
 						</p>
-						
-
-							
+						<p>
+							Je suis aussi titulaire d'un  <B>Baccalauréat Scientifique.</B></p>
 						</p>
 						</div>
 					</div>
@@ -216,8 +215,18 @@
 				<div class="col-md-6 col-sm-6 fh5co-service to-animate">
 					<i class="icon to-animate-2 icon-language"></i>
 					<h3>Langages de programmation acquis</h3>
-					<p>HTML5 &amp; CSS3,&nbsp; PHP &amp; SQL, JAVA,&nbsp; COBOL DB2,&nbsp; javaScript, librairie jQuery,&nbsp; Python,&nbsp; Powershell,&nbsp;  VB.NET (ASP.NET).
-						</p>
+					<ul>
+						<li>HTML5 &amp; CSS3</li> 
+						<li>PHP &amp; SQL</li> 
+						<li>JAVA 13 avancé</li> 
+						<li>COBOL DB2</li>
+						<li>javaScript</li>  
+						<li>jQuery</li> 
+						<li>Python 3</li>
+						<li>Powershell / Shell</li>
+						<li>C</li>
+					</ul>
+					
 					<div class="col-md-12">
 						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/html.png"</img> </div>
 						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/css.png"</img> </div>
@@ -245,16 +254,22 @@
 						<i class="icon to-animate-2 icon-keyboard-o"></i>
 						<h3>Logiciels maitrisés </h3>
 
-						<p> <span class="toBold">Editeurs </span> tels Eclipse,&nbsp; IntelliJ IDEA,&nbsp; Visual studio,&nbsp;Powershell ISE,&nbsp;Visual Studio code,&nbsp;Android studio,&nbsp;PhpStorm.</br>
-						<span class="toBold"> Applications &amp; services de développement </span> comme :  phpMyAdmin avec les services Apache,&nbsp;MongoDB avec Robo3T,
-						&nbsp; Tables de données Access, Structure  d'une base de donnée avec Workbench,&nbsp;Application Laragon,&nbsp;
-						</br> Client FTP&nbsp;(FileZilla,&nbsp;CyberDuck),&nbsp;Wireshark...</br>
+						<p> <span class="toBold">Editeurs </span> tels Eclipse,&nbsp; IntelliJ IDEA,&nbsp; Visual studio,&nbsp;Powershell ISE,&nbsp;Visual Studio Code,&nbsp;
+						Android studio,&nbsp;Centre de développement COBOL/DB2.</br>
+						<span class="toBold"> Outils d'intégration &amp; déploiement continue </span> comme :  Jenkins,&nbsp;Alien for Cloud,
+						&nbsp;Intégration continue GitLab, Repository Nexus...
+						</br>
+						<span class="toBold"> Applications &amp; services de développement </span> : GitHub &amp; GitLab, &nbsp;phpMyAdmin avec les services Apache,&nbsp;
+						MongoDB avec Robo3T,
+						&nbsp; Tables de données Access, Structure  d'une base de donnée avec Workbench,
+						Client FTP&nbsp;(FileZilla),&nbsp;Wireshark...</br>
+						<span class="toBold"> Logiciels de Géomatique </span> comme QGIS 3 </br>
 						<span class="toBold"> Programmes de virtualisation </span> comme VMware et VirtualBox...
 						</p>
 
 						<div id="logiciels" class="collapse">
-						&amp; d'<span class="toBold">accès à distance </span> tel que DameWare &amp; TeamViewer.</br>
-						<span class="toBold"> Logiciels de bureautiques </span> comme le Pack Office (Word,&nbsp;Excel,&nbsp;Publisher...),&nbsp;Libre Office,&nbsp; Gimp,&nbsp; Winrar,&nbsp;Sony Vegas Pro.</p>
+						
+						<span class="toBold"> &amp; Logiciels de bureautiques </span> comme le Pack Office (Word,&nbsp;Excel,&nbsp;Publisher...),&nbsp;Libre Office,&nbsp; Gimp,&nbsp; Winrar,&nbsp;Sony Vegas Pro.</p>
 						</div>
 
 						<button type="button" class="btn btn-link toWhiteColor" data-toggle="collapse" data-target="#logiciels">Plus</button>
@@ -267,38 +282,44 @@
 			
 				<div class="col-md-6 col-sm-6 fh5co-service to-animate">
 						<i class="icon to-animate-2 icon-layers2"></i>
-						<h3>Outils Web &amp; Frameworks</h3>
-						<p>Projets menés avec Angular 7 et 8,&nbsp; JAVA Spring Boot, Quarkus,&nbsp; Bootstrap 3 et 4,&nbsp; 
-							MaterializeCSS,&nbsp;Symfony 4,</br>
-							Node.js,&nbsp; Angular.js,&nbsp;.NET,&nbsp;  Wordpress,&nbsp; Joomla,&nbsp; Drupal,&nbsp; Jimdo,&nbsp;
-							Google Sites,&nbsp; Wix.
+						<h3>Outils &amp; Frameworks</h3>
+						<p>Projets menés avec Angular 7 et 8,&nbsp; JAVA Spring Boot 2, Quarkus,&nbsp; Bootstrap 3 et 4,&nbsp; 
+							MaterializeCSS,&nbsp; COBOL DB2,</br>
+							Node.js,&nbsp; Angular.js,&nbsp;.NET,&nbsp;  Wordpress,&nbsp; Jimdo,&nbsp;Wix.
 						</p>
 
 						<div class="col-md-12">
 								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/angular.png"/> </div>
-								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/bootstrap.png"/> </div>
+								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/springboot.png"/> </div>
+								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/quarkus.png"/> </div>
 								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/nodejs.png"/> </div>
-								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/symfony.png"/> </div>
-								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/net.png"/> </div>
-								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/Wordpress.png"/> </div>
+								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/ibm_db2.png"/> </div>
+								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/bootstrap.png"/> </div>
 						</div>
 				</div>
 				
 				<div class="col-md-6 col-sm-6 fh5co-service to-animate">
 							<i class="icon to-animate-2 icon-monitor"></i>
-							<h3>Autres compétences informatiques</h3>
-							<p>Rédaction d'un documentation technique, Bonne maitrise d'OS &nbsp;(Windows 7,&nbsp;8 &amp; 10, &nbsp; Linux Ubuntu),
-							</br>Configuration d'un serveur de production,&nbsp; Architecture matérielle d'un PC,&nbsp;Gestion de
-							trafic réseau,&nbsp;Programmation sur Arduino &amp; et  Raspberry,&nbsp; Configuration d'un Cloud,&nbsp;Montage vidéo. </p>
-
+							<h3>Autres compétences</h3>
+							<ul>
+								<li>Rédaction d'une documentation technique</li>
+								<li>Estimation des charges et j/h d'un projet</li>
+								<li>Animation d'une réunion</li>
+								<li>Configuration d'une machine en env. de production</li>
+								<li>Rentabilité en entreprise</li>
+								<li>Recrutement d'un équipier</li>
+								<li>Introduction à la méthode Agile</li>
+							</ul>
+							<!--
 							<div class="col-md-12">
-									<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/windows.png"</img> </div>
-									<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/linux.png"</img> </div>
-									<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/raspberry.png"</img> </div>
-									<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/arduino.png"</img> </div>
-									<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/server.png"</img> </div>
-									<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/computer.png"</img> </div>
-								</div>
+									<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/windows.png"/> </div>
+									<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/linux.png" /> </div>
+									<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/raspberry.png"/> </div>
+									<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/arduino.png"/> </div>
+									<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/server.png"/> </div>
+									<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/computer.png"/> </div>
+							</div>
+							-->
 								
 					</div>
 					<div class="clearfix visible-sm-block"></div>
@@ -340,10 +361,8 @@
 											</div>
 											<div class="timeline-marker"></div>
 											<div class="timeline-content">
-												<h3 class="timeline-title">Société Générale (Développement Angular/COBOL-DB2)</h3>
-												<p> <span class="toBold">Analyste développeur sur l'assurance/Epargne</p>
-											
-											
+												<h3 class="timeline-title">Société Générale (Développement Angular/JAVA/COBOL-DB2)</h3>
+												<p> <span class="toBold">Analyste développeur sur l'Assurance/Epargne</p>
 											</div>
 									</li>
 									<li class="timeline-item">
@@ -449,8 +468,8 @@
 										<div class="timeline-marker"></div>
 										<div class="timeline-content">
 											<h3 class="timeline-title"> Diplôme d'ingénieur Sciences et Technologies Informatique</h3>
-											<p>Etudiant à <B>ESIPE</B> (École Supérieure d'Ingénieurs Paris-Est Marne-la-Vallée) pour la rentrée prochaine.</br>
-												L'objectif est d'apprendre à terme, à partir de bases informatiques issu du BTS, le métier d'<span class="toBold">ingénieur logiciel</span>.</p>
+											<p>Etudiant en 2ème année à <B>ESIPE</B> (École Supérieure d'Ingénieurs Paris-Est Marne-la-Vallée).</br>
+												L'objectif est d'apprendre à terme, à partir de bases informatiques issu du BTS, le métier d'<span class="toBold">ingénieur Informaticien & Géomaticien</span>.</p>
 										</div>
 									</li>
 								
