@@ -123,7 +123,7 @@
 						<div class="col-md-8 col-md-offset-2 to-animate">
 							<i  class="to-animate icon-laptop fa-3x"></i>
 							<h1 class="to-animate">Bienvenue sur mon Portfolio!</h1>
-							<h2 class="to-animate">il reflète ma passion pour l'informatique.
+							<h2 class="to-animate">Je suis à la recherche d'un CDI en développement web et/ou mobile
 							</h2>
 						</div>
 					</div>
@@ -141,15 +141,16 @@
 					<div class="overlay"></div>
 					<div class="fh5co-text">
 						<i class="fh5co-intro-icon icon-notebook"></i>
-						<h2>ESIPE</h2>
-						<p>J'étudie actuellement à <B>ESIPE</B> (École Supérieure d'Ingénieurs Paris-Est Marne-la-Vallée) en Alternance.
+						<h2>Formation</h2>
+						<p>J'étudie actuellement à <B>l'ESIPE</B> (École Supérieure d'Ingénieurs Paris-Est Marne-la-Vallée) en alternance en tant que
+						<strong>Analyste développeur fullstack</strong>, chez Société Générale.
 						</p>
 						<p>
-							Je suis également diplomé d'un <B>BTS SIO</B> (Services Informatiques aux Organisations) spécialité SLAM
+							Je suis également diplomé d'un <B>BTS SIO</B> (Services Informatiques aux Organisations) option SLAM
 							(Solutions Logicielles et Applications Métiers) effectué au sein du lycée Léonard de Vinci à Melun(77).
 						</p>
 						<p>
-							Je suis aussi titulaire d'un  <B>Baccalauréat Scientifique.</B></p>
+							Je suis aussi titulaire d'un  <strong>Baccalauréat SSI </strong>(Scientifique Sciences de l'ingénieur)</p>
 						</p>
 						</div>
 					</div>
@@ -161,29 +162,25 @@
 							<h2>Présentation</h2>
 							</br>
 							<p>
-								Je m'appelle Jonathan CRÉTÉ, j'ai 22 ans et j'habite en région parisienne.
-								Passionné par le développement web &amp; mobile,&nbsp;j'aimerai exercer à l'avenir le métier d'ingénieur informaticien.</br>
-								
-							<p>Ce Portfolio est un outil de communication et une extension de mon CV papier.</p>
-							
-						</p>
+								Je m'appelle Jonathan CRÉTÉ, j'ai 23 ans et j'habite en région parisienne.
+							</p>
+							<p>
+								Passioné par le <strong>développement web</strong> &amp;  et en particulier par le <strong>développement mobile</strong>,&nbsp; 
+								j'aimerai travailler au sein d'une équipe de développeurs partageant les mêmes compétences. </br>
+							</p>
 					</div>
 				</div>
 				<div class="fh5co-block to-animate" style="background-image: url(images/img_10.jpg);">
 					<div class="overlay-darker"></div>
 					<div class="overlay"></div>
 					<div class="fh5co-text">
-						<i class="fh5co-intro-icon icon-settings"></i>
-						<h2>Bootstrap</h2>
-						<p>Ce Portfolio a été conçu à l'aide de Bootstrap, qui est une collection d'outils utile à la création d'applications
-						web.</p>
+						<i class="fh5co-intro-icon icon-search"></i>
+						<h2>Ingénieur informatique design, architecture & développement / CDI</h2>
 						<p>
-							<p>
-								Bootstrap porte l'avantage de s'adapter a tous les écrans, rendant l'application responsive.
-							</p>
-							<a href="#intro" id="btnBootstrap" class="btn btn-primary">Qu'est-ce ?</a>
-
+							Je vais être diplomé en Septembre 2021 du titre d'<strong>Ingénieur informatique design, architecture & développement.</strong>
 						</p>
+						<p>Dans cette optique, je suis à la recherche d'un <strong>Contrat à Durée Indéterminée</strong>, à partir d'Octobre 2021.</p>
+						<p>Ce portfolio est une extension de mon CV papier.</p>
 					</div>
 				</div>
 			</div>
@@ -214,40 +211,39 @@
 			
 				<div class="col-md-6 col-sm-6 fh5co-service to-animate">
 					<i class="icon to-animate-2 icon-language"></i>
-					<h3>Langages de programmation acquis</h3>
+					<h3>Technique et Langages de programmation acquis</h3>
 					<ul>
 						<li>HTML5 &amp; CSS3</li> 
-						<li>PHP &amp; SQL</li> 
-						<li>JAVA 13 avancé</li> 
-						<li>COBOL DB2</li>
-						<li>javaScript</li>  
+						<li>javaScript (ES7)</li>  
+						<li>Programmation objet en Java (avancé, concurrente et avec Android)</li> 
+						<li>Kotlin avec Android</li> 
+						<li>Scala avec Apache Spark</li> 
+						<li>COBOL avec DB2</li>
+						<li>PHP &amp; mySQL</li> 
 						<li>jQuery</li> 
-						<li>Python 3</li>
-						<li>Powershell / Shell</li>
-						<li>C</li>
+						<li>Programmes de base en Python 3</li>
+						<li>Algorithmique essentiel (complexité O d'un code source, récursion, liste, arbres, graphes...)</li>
+						<li>Choix d'une structure de données adaptée (liste simple ou chainée, ensemble, table de hachage, file d'attente)</li>
 					</ul>
-					
+					</br>
 					<div class="col-md-12">
 						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/html.png"</img> </div>
 						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/css.png"</img> </div>
 						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/javascript.png"</img> </div>
 						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/jquery.png"</img> </div>
-						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/php.png"</img> </div>
-						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/sql.png"</img> </div>
+						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/java.png"</img> </div>
+						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/android.png"</img> </div>
 					</div>
 					&nbsp;
 					<div class="col-md-12">
-						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/java.png"</img> </div>
-						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/android.png"</img> </div>
+						
 						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/C.png"</img> </div>
-						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/vb.png"</img> </div>
+						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/kotlin.png"</img> </div>
+						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/php.png"</img> </div>
+						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/sql.png"</img> </div>
 						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/powershell.png"</img> </div>
 						<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/python.png"</img> </div>
 					</div>
-
-					&nbsp;
-					
-					
 				</div>
 				<div class="col-md-6 col-sm-6 fh5co-service to-animate">
 
@@ -255,11 +251,11 @@
 						<h3>Logiciels maitrisés </h3>
 
 						<p> <span class="toBold">Editeurs </span> tels Eclipse,&nbsp; IntelliJ IDEA,&nbsp; Visual studio,&nbsp;Powershell ISE,&nbsp;Visual Studio Code,&nbsp;
-						Android studio,&nbsp;Centre de développement COBOL/DB2.</br>
+						Android studio,&nbsp;Centre de développement TSO COBOL.</br>
 						<span class="toBold"> Outils d'intégration &amp; déploiement continue </span> comme :  Jenkins,&nbsp;Alien for Cloud,
 						&nbsp;Intégration continue GitLab, Repository Nexus...
 						</br>
-						<span class="toBold"> Applications &amp; services de développement </span> : GitHub &amp; GitLab, &nbsp;phpMyAdmin avec les services Apache,&nbsp;
+						<span class="toBold"> Applications &amp; services de développement </span> : GitHub &amp; GitLab, &nbsp;phpMyAdmin avec Apache,&nbsp;
 						MongoDB avec Robo3T,
 						&nbsp; Tables de données Access, Structure  d'une base de donnée avec Workbench,
 						Client FTP&nbsp;(FileZilla),&nbsp;Wireshark...</br>
@@ -282,25 +278,35 @@
 			
 				<div class="col-md-6 col-sm-6 fh5co-service to-animate">
 						<i class="icon to-animate-2 icon-layers2"></i>
-						<h3>Outils &amp; Frameworks</h3>
+						<h3>Techniques - Outils &amp; Frameworks</h3>
 						<p>Projets menés avec Angular 7 et 8,&nbsp; JAVA Spring Boot 2, Quarkus,&nbsp; Bootstrap 3 et 4,&nbsp; 
 							MaterializeCSS,&nbsp; COBOL DB2,</br>
 							Node.js,&nbsp; Angular.js,&nbsp;.NET,&nbsp;  Wordpress,&nbsp; Jimdo,&nbsp;Wix.
 						</p>
 
 						<div class="col-md-12">
-								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/angular.png"/> </div>
-								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/springboot.png"/> </div>
-								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/quarkus.png"/> </div>
-								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/nodejs.png"/> </div>
-								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/ibm_db2.png"/> </div>
-								<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/bootstrap.png"/> </div>
+							<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/react.png"/> </div>
+							<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/angular.png"/> </div>
+							<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/openlayers.png"/> </div>
+							<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/nodejs.png"/> </div>
+							<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/bootstrap.png"/> </div>
+							<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/materialize.png"/> </div>
 						</div>
+						&nbsp;
+						<div class="col-md-12">
+							<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/android.png"</img> </div>
+							<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/springboot.png"/> </div>
+							<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/quarkus.png"/> </div>
+							<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/docker.png"/> </div>
+							<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/wildfly.png"/> </div>
+							<div class="col-md-2 col-sm-2 col-xs-2"> <img class="img-responsive" src="images/icons/ibm_db2.png"/> </div>
+						</div>
+						&nbsp;
 				</div>
 				
 				<div class="col-md-6 col-sm-6 fh5co-service to-animate">
 							<i class="icon to-animate-2 icon-monitor"></i>
-							<h3>Autres compétences</h3>
+							<h3>Transverses</h3>
 							<ul>
 								<li>Rédaction d'une documentation technique</li>
 								<li>Estimation des charges et j/h d'un projet</li>
@@ -357,12 +363,19 @@
 									<li class="timeline-item">
 											
 											<div class="timeline-info">
-												<span>2018-..</span>
+												<span>2018-2021</span>
 											</div>
 											<div class="timeline-marker"></div>
 											<div class="timeline-content">
-												<h3 class="timeline-title">Société Générale (Développement Angular/JAVA/COBOL-DB2)</h3>
-												<p> <span class="toBold">Analyste développeur sur l'Assurance/Epargne</p>
+												<h3 class="timeline-title">Société Générale, ITIM (Alternance)</h3>
+												<p> <span class="toBold">Analyste développeur Fullstack sur l'Assurance/Epargne</p>
+												<p>
+												Cadrage et développement d'une application web de gestion de produits d'assurances en Angular & Boostrap, Spring Boot & COBOL/DB2 </br>
+												Refonte d'une application web en d'angular.js vers React.js </br>
+												Conception d'APIs (SOAP/REST) et architecture technique </br>
+												Intégration et déploiement continu (Jenkins, Alien4Cloud) </br>
+												Développement divers (Java 13, JEE, CICS, angular.js) </br>
+												</p>
 											</div>
 									</li>
 									<li class="timeline-item">
@@ -372,8 +385,9 @@
 											</div>
 											<div class="timeline-marker"></div>
 											<div class="timeline-content">
-												<h3 class="timeline-title">Sud Expertise &amp; Audit (Développement web PHP/MySql/js)</h3>
-												<p> <span class="toBold">Développement d'une application web </span> "Sud'Satisfaction" qui cible la satisfaction client.</p>
+												<h3 class="timeline-title">Sud Expertise &amp; Audit (CDD)</h3>
+												<p> <span class="toBold">Développeur web</p>
+												<p>Développement d'une application web "Sud'Satisfaction" qui cible la satisfaction client.</p>
 											
 											
 											</div>
