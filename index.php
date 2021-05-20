@@ -165,7 +165,7 @@
 								Je m'appelle Jonathan CRÉTÉ, j'ai 23 ans et j'habite en région parisienne.
 							</p>
 							<p>
-								Passioné par le <strong>développement web</strong> &amp;  et en particulier par le <strong>développement mobile</strong>,&nbsp; 
+								Passioné par le <strong>développement web</strong> &amp;  et par le <strong>développement mobile</strong>,&nbsp; 
 								j'aimerai travailler au sein d'une équipe de développeurs partageant les mêmes compétences. </br>
 							</p>
 					</div>
@@ -928,48 +928,197 @@
 
 	<div id ="sectionVeille">
 		<section id="fh5co-about" data-section="about" >
-			<div class="container" >
+			<div class="container">
 				<div class="row">
 					<div class="col-md-12 section-heading text-center">
 						<h2 class="to-animate">Veille technologique (formations complémentaires)</h2>
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2 subtext to-animate">
+								Voici un panorama des <strong>formations professionnelles et personnelles</strong> que j'ai pu réaliser, 
+								de manière à pratiquer de manière constante ma veille technologique.
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-3">
+
+
+					<div class="col-md-4">
 						<div class="fh5co-person text-center to-animate">
 							<figure>
-								<img src="images/angular-presentation.png" alt="Veille-technologique">
+								<img src="images/icons/sg-logo.png" alt="Formation APIs SG">
 							</figure>
-							<h3>Veille Technologique</h3>
-							<span class="fh5co-position">Framework & librairies Javascript</span>
-							<p>La veille technologique consiste à s'informer de façon systématique sur de nouvelles technologies et 
-							sur leur mises à disposition commerciales.</p>
+							<h3>Elaboration d'architecture Open Banking et Conception des APIs, 2 jours</h3>
+							<span class="fh5co-position">Formation professionnelle</span>
+							<p>Cette formation aborde l'Open Banking et explique pas à pas comment concevoir une API en suivant les bonnes pratiques (design, quality rules, standard REST...).</p>
+						</div>
+					</div>						
+
+					<div class="col-md-4">
+						<div class="fh5co-person text-center to-animate">
+							<figure>
+									<img src="images/icons/sg-logo.png" alt="Formation js SG">
+							</figure>
+							<h3>Frontend Javascript & React, 1 semaine</h3>
+							<span class="fh5co-position">Formation professionelle</span>
+							<p> 
+								Cette formation est spécifique au développement web en javascript avec React. 
+							    (JS moderne (ES6+) et la programmation fonctionnelle, les bases de React.js,
+								des principes d'architecture, Redux, les Hooks...)
+							</p>
+						</div>
+
+					</div>			
+					
+					<div class="col-md-4">
+						<div class="fh5co-person text-center to-animate">
+							<figure>
+								<img src="images/icons/react.png" alt="Formation React.js Udemy">
+							</figure>
+							<h3>React 16+ Le Guide Complet (+Redux, React Router & Firebase), 10 heures</h3>
+							<span class="fh5co-position">Formation Udemy</span>
+							<p>Cette formation forme complétement à tout les aspects de React.js à travers 3 projets pratiques.</p>
 							<p>
-								<button onclick="document.location.href='Veille_T.php'" id="btnVT" class="btn btn-primary">
-									Voir
-								</button>
+								<a href="https://www.udemy.com/course/react-le-guide-complet/" target="_blank">
+									<button class="btn btn-primary">Voir</button>
+								</a>
+							</p>
+							
+						</div>
+					</div>
+
+				</div>
+				<div class="row">
+					<div class="col-md-4">
+						<div class="fh5co-person text-center to-animate">
+							<figure>
+								<img src="images/icons/spark.png" alt="Formation Spark Udemy">
+							</figure>
+							<h3>Spark avec Scala - Pratique avec le Big Data pour Débutants, 8.5 heures</h3>
+							<span class="fh5co-position">Formation Udemy</span>
+							<p>Cette formation introduit les notions essentielles du Big Data, 
+							m'a permis comprendre le Scala, ainsi que le framework Apache Spark.</p>
+							<p>
+								<a href="https://www.udemy.com/course/spark-avec-scala-pratique-avec-le-big-data-pour-debutants/" target="_blank">
+									<button class="btn btn-primary">Voir</button>
+								</a>
 							</p>
 						</div>
 					</div>
 
-					<div class="col-md-3">
+					<div class="col-md-4">
 						<div class="fh5co-person text-center to-animate">
 							<figure>
-								<img src="images/tribunal2.jpg" alt="Veille-juridique">
+								<img src="images/icons/angular2.png" alt="Formation Angular Udemy">
 							</figure>
-							<h3>Veille Juridique</h3>
-							<span class="fh5co-position">Protection et exploitation des logiciels</span>
-							<p>La veille juridique est une veille spécialisée dans le domaine du droit. Elle a pour but d'acquérir des compétences afin  de repérer 
-							d’actualiser ses connaissances et de rechercher des informations pertinentes.</p>
+							<h3>Angular 9 : Développer votre première application (2021), 7 heures</h3>
+							<span class="fh5co-position">Formation Udemy</span>
+							<p>Cette formation m'a permis de maitrîser les fondamentaux du framework Angular de Google (Composants, directives, modules, pipes, services...).</p>
 							<p>
-								<button   onclick="document.location.href='Veille_J.php'" id="btnVJ" class="btn btn-primary">
-									En savoir + 
-								</button>
+								<a href="https://www.udemy.com/course/android-kotlin-apps-mobiles/" target="_blank">
+									<button class="btn btn-primary">Voir</button>
+								</a>
 							</p>
+							
+						</div>
+					</div>
+					
+					<div class="col-md-4">
+						<div class="fh5co-person text-center to-animate">
+							<figure>
+								<img src="images/icons/android.png" alt="Formation android Udemy">
+							</figure>
+							<h3>Android & Kotlin | Formation complète, 19.5 heures</h3>
+							<span class="fh5co-position">Formation Udemy</span>
+							<p>Ce cours m'a permis de perfectionner mes compétences l'écosystème Android et d'apprendre le Kotlin.</p>
+							<p>
+								<a href="https://www.udemy.com/course/android-kotlin-apps-mobiles/" target="_blank">
+									<button class="btn btn-primary">Voir</button>
+								</a>
+							</p>
+						</div>
+					</div>
+
+				</div>
+
+				<div class="row">
+				
+					<div class="col-md-4">
+						<div class="fh5co-person text-center to-animate">
+							<figure>
+								<img src="images/icons/nodejs.png" alt="Formation node.js Udemy">
+							</figure>
+							<h3>NodeJS + MongoDB (NoSQL) + Express serveur pour débutants, 3.5 heures</h3>
+							<span class="fh5co-position">Formation Udemy</span>
+							<p>Cette formation m'a permis de découvir Node.js et MongoDB pour mon projet FaceCast (BTS).</p>
+							<p>
+								<a href="https://www.udemy.com/course/mongodb-nodejs-mongoose-pour-debutants/" target="_blank">
+									<button class="btn btn-primary">Voir</button>
+								</a>
+							</p>
+						</div>
+					</div>
+
+					<div class="col-md-4">
+						<div class="fh5co-person text-center to-animate">
+							<figure>
+								<img src="images/icons/javascript-logo.png" alt="Formation js Udemy">
+							</figure>
+							<h3>JavaScript : le Guide Ultime (ES6 et ES7 inclus), 7.5 heures</h3>
+							<span class="fh5co-position">Formation Udemy</span>
+							<p>Cette formation m'a permis d'avoir des bases solides en javascript, en plus du cours d'applications web que j'ai eu à l'ESIPE.</p>
+							<p>
+								<a href="https://www.udemy.com/course/javascriptleguide/" target="_blank">
+									<button class="btn btn-primary">Voir</button>
+								</a>
+							</p>
+							
+						</div>
+					</div>				
+
+
+					<div class="col-md-4">
+						<div class="fh5co-person text-center to-animate">
+							<figure>
+								<img src="images/icons/springboot.png" alt="Formation Spring Boot Udemy">
+							</figure>
+							<h3>Apprendre Angular & Spring Boot étape par étape, 7.5 heures</h3>
+							<span class="fh5co-position">Formation Udemy</span>
+							<p>Cette formation m'a permis de travailler avec une architecture possédant un frontend Angular et un backend Java avec Spring Boot.</p>
+							<p>
+								<a href="https://www.udemy.com/course/apprendre-angular-spring-boot-etape-par-etape/" target="_blank">
+									<button class="btn btn-primary">Voir</button>
+								</a>		
+							</p>
+						</div>
+					</div>
+
+				</div>
+
+				<div class="row">
+					<div class="col-md-4">
+						<div class="fh5co-person text-center to-animate">
+							<figure>
+								<img src="images/icons/bootstrap.png" alt="Formation bootstrap 4 Udemy">
+							</figure>
+							<h3>Développer avec Bootstrap 4 - Le Cours Complet, 4.5 heures</h3>
+							<span class="fh5co-position">Formation Professionelle</span>
+							<p>Après mon apprentissage de bootstrap 3 lors de mon stage chez Signify, cette formation m'a permis de 
+							découvrir les nouveautés des versions 4 et 5 de Bootstrap.</p>
+							<a href="https://www.udemy.com/course/developper-avec-bootstrap-4-le-cours-complet/" target="_blank">
+								<button class="btn btn-primary">Voir</button>
+							</a>
+						</div>
+					</div>
+
+					<div class="col-md-4">
+						<div class="fh5co-person text-center to-animate">
+							<figure>
+								<img src="images/icons/mockito.png" alt="Formation mockito Udemy">
+							</figure>
+							<h3>Mockito and JUnit in Java for beginners</h3>
+							<span class="fh5co-position">Formation Udemy</span>
+							<p>Cette formation m'a permis de maitrîser Mockito & Junit afin d'écrire des tests unitaires efficaces dans projet Java.</p>
 						</div>
 					</div>
 				</div>
