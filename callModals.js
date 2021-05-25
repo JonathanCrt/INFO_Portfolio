@@ -1,61 +1,38 @@
-
-// $(document).ready(function () {
-// $('#ViewVT,#ViewVJ').hide();
-// });
-
-
 // Methods to open modals of home page
-$('#imgPhilips,.seeInfoSecu').click(function () {
-    $('#MyModal').modal('show'); 
-}); 
-
-$('#imgDunord').click(function () {
-    $('#modalDunord').modal('show'); 
+$('#imgPhilips,.seeInfoSecu').click(() => {
+    $('#MyModal').modal('show');
 });
 
-$('#imgGeo').click(function () {
-    $('#modalGeo').modal('show'); 
-}); 
-    
-$('#imgCycles,#seeCyclesK').click(function () {
-    $('#modalCyclesC').modal('show'); 
-}); 
-
-$('#imgFacecast').click(function () {
-    $('#modalFacecast').modal('show'); 
-}); 
-
-$('#imgSun,.imgSunMailExplain').click(function () {
-    $('#modalSunMail').modal('show'); 
-}); 
-
-$('#btnBootstrap').click(function () {
-    $('#modalBootstrap').modal('show'); 
+$('#imgDunord').click(() => {
+    $('#modalDunord').modal('show');
 });
 
-$('#imgDiscovery').click(function () {
-    $('#modaldiscovery').modal('show'); 
-});
-    
-$('#imgVanilla').click(function () {
-    $('#modalVanilla').modal('show'); 
+$('#imgGeo').click(() => {
+    $('#modalGeo').modal('show');
 });
 
-$('#imgSud').click(function () {
-    $('#modalSud').modal('show'); 
+$('#imgCycles,#seeCyclesK').click(() => {
+    $('#modalCyclesC').modal('show');
 });
 
-$('#imgCLASSIC').click(function () {
-    $('#modalClassic').modal('show'); 
+$('#imgFacecast').click(() => {
+    $('#modalFacecast').modal('show');
 });
 
-$('#imgMariePortfolio').click(function () {
-    $('#modalMarie').modal('show'); 
+$('#imgDiscovery').click(() => {
+    $('#modaldiscovery').modal('show');
 });
 
-$('#imgAlexisPortfolio').click(function () {
-    $('#modalAlex').modal('show'); 
+$('#imgVanilla').click(() => {
+    $('#modalVanilla').modal('show');
 });
 
+$('#imgSud').click(() => {
+    $('#modalSud').modal('show');
+});
+
+$('#imgCartopoc').click(() => {
+    $('#modalCartopoc').modal('show');
+});
 
 $('.carousel').carousel();
